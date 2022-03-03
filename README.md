@@ -1,2 +1,2 @@
-American Computer Science League (ACSL)
+**American Computer Science League (ACSL)**
 
