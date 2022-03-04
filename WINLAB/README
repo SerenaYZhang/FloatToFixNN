@@ -1,0 +1,2 @@
+This directory includes my intern work at Rutger's WINLAB for the project “High Speed Training Using Binary Neural Networks (NN).”
+I worked on the task of evaluating the relationship of the accuracy of NN and different float number (NN weights) truncation settings using Go language.
